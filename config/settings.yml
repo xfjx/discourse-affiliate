@@ -44,7 +44,14 @@ plugins:
   affiliate_amazon_nl:
     default: ''
     client: true
+  affiliate_az-delivery_de:
+    default: ''
+    client: true
+  affiliate_eckstein-shop_de:
+    default: ''
+    client: true
   affiliate_ldlc_com:
     default: ''
     client: true
     regex: "^[a-zA-Z0-9]+$"
+
